@@ -1,5 +1,10 @@
 Hello Git
+<<<<<<< HEAD
 change in master
 another master change
 tag change
 change from master branch
+=======
+change in test branch
+change done
+>>>>>>> test
